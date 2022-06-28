@@ -9,7 +9,7 @@ O **Arcon** é um script escrito em português e desenvolvido em Shell Script. <
 Feito para automatizar e facilitar a etapa de reconhecimento em aplicações web e nos demais IP's para pesquisadores e analistas de segurança. O script foi criado com o intuito de colocar em prática o meu aprendizado e também contribuir com os profissionais e entusiastas da área de **Segurança da Informação** de alguma forma.
 
 Este projeto está aberto para melhorias, sugestões e pull requests, sofrerá atualizações e correções sempre que for possível e sempre que houver possibilidades.
-Antes de utilizar, recomendo fortemente que leia a [licença do Arcon]([https://github.com/teuscode](https://github.com/teuscode/arcon/blob/main/LICENSE.md)) para que possua conhecimento da mesma.
+Antes de utilizar, recomendo fortemente que leia a [licença do Arcon](https://github.com/teuscode/arcon/blob/main/LICENSE.md) para que possua conhecimento da mesma.
 
 O desenvolvedor deste script **NÃO** se responsabiliza pelo mau uso deste programa, sendo assim, use-o por sua conta em risco. <br>
 Sendo assim, a partir do momento que usar o **Arcon**, você é o responsável pela forma como ele vai ser usado.
