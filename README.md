@@ -1,18 +1,18 @@
 <p align="center">
- <img src="./images/arcon-banner.png" alt="Banner do Arcon">
+ <img src="https://github.com/teuscode/teuscode/blob/main/imagens/arcon/arcon-banner.png" alt="Banner do Arcon">
 </p>
 
 <hr>
 
 ## 📓 Sobre o Arcon
 O **Arcon** é um script escrito em português e desenvolvido em Shell Script. <br>
-Feito para automatizar e facilitar a etapa de reconhecimento em aplicações web e nos demais IP'spara pesquisadores e analistas de segurança. O script foi criado com o intuito de colocar em prática o meu aprendizado e também contribuir com os profissionais e entusiastas da área de **Segurança da Informação** de alguma forma.
+Feito para automatizar e facilitar a etapa de reconhecimento em aplicações web e nos demais IP's para pesquisadores e analistas de segurança. O script foi criado com o intuito de colocar em prática o meu aprendizado e também contribuir com os profissionais e entusiastas da área de **Segurança da Informação** de alguma forma.
 
 Este projeto está aberto para melhorias, sugestões e pull requests, sofrerá atualizações e correções sempre que for possível e sempre que houver possibilidades.
-Antes de utilizar, recomendo fortemente que leia a [licença do Arcon](https://github.com/teuscode) para que possua conhecimento da mesma.
+Antes de utilizar, recomendo fortemente que leia a [licença do Arcon](https://github.com/teuscode/arcon/blob/main/LICENSE.md) para que possua conhecimento da mesma.
 
 O desenvolvedor deste script **NÃO** se responsabiliza pelo mau uso deste programa, sendo assim, use-o por sua conta em risco. <br>
-Sendo assim, a partir do momento que usar o **Arcon**, você é o responsável pela forma como ele vai ser usado.
+A partir do momento que usar o **Arcon**, você é o responsável pela forma como ele vai ser usado.
 
 ## 🔩 Funcionamento do Arcon
 O **Arcon** foi criado para rodar somente em distribuições Linux, o seu ambiente de desenvolvimento foi o **Kali Linux** e para ele funcionar, é necessário que algumas ferramentas estejam instaladas na sua máquina, sendo elas:
@@ -46,11 +46,11 @@ $ sh arcon.sh
 
 **4° Passo**:
 Agora que você executou o Arcon, irá aparecer essa interface:
-<img src="./images/interface-arcon.png" alt="Interface inicial do Arcon">
+<img src="https://github.com/teuscode/teuscode/blob/main/imagens/arcon/interface-arcon.png" alt="Interface inicial do Arcon">
 
 **5° Passo**:
 Estando na interface inicial, coloque o domínio ou o IP alvo e pronto:
-<img src="./images/demo-arcon.png" alt="Demonstração de funcionamento do Arcon">
+<img src="https://github.com/teuscode/teuscode/blob/main/imagens/arcon/demo-arcon.png" alt="Demonstração de funcionamento do Arcon">
 
 Após isso, verifique o diretório criado no caminho onde o script foi executado e verifique os arquivos de texto criados, dentro deles possuem o resultado de cada teste feito.
 <hr>
