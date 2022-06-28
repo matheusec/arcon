@@ -52,7 +52,7 @@ Agora que você executou o Arcon, irá aparecer essa interface:
 Estando na interface inicial, coloque o domínio ou o IP alvo e pronto:
 <img src="./images/demo-arcon.png" alt="Demonstração de funcionamento do Arcon">
 
-Após isso, verifique o diretório criado no caminho onde o script foi executado e verifique os arquivos de textos criados, dentro deles possuem o resultado de cada teste feito.
+Após isso, verifique o diretório criado no caminho onde o script foi executado e verifique os arquivos de texto criados, dentro deles possuem o resultado de cada teste feito.
 <hr>
 
 💀 Criado por **Matheus Muniz** | Information Security Analyst and Systems Programmer.
