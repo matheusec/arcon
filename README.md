@@ -12,7 +12,7 @@ Este projeto está aberto para melhorias, sugestões e pull requests, sofrerá a
 Antes de utilizar, recomendo fortemente que leia a [licença do Arcon](https://github.com/teuscode/arcon/blob/main/LICENSE.md) para que possua conhecimento da mesma.
 
 O desenvolvedor deste script **NÃO** se responsabiliza pelo mau uso deste programa, sendo assim, use-o por sua conta em risco. <br>
-Sendo assim, a partir do momento que usar o **Arcon**, você é o responsável pela forma como ele vai ser usado.
+A partir do momento que usar o **Arcon**, você é o responsável pela forma como ele vai ser usado.
 
 ## 🔩 Funcionamento do Arcon
 O **Arcon** foi criado para rodar somente em distribuições Linux, o seu ambiente de desenvolvimento foi o **Kali Linux** e para ele funcionar, é necessário que algumas ferramentas estejam instaladas na sua máquina, sendo elas:
