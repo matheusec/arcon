@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./images/arcon-banner.png" alt="Banner do Arcon">
+ <img src="https://github.com/teuscode/teuscode/blob/main/imagens/arcon/arcon-banner.png" alt="Banner do Arcon">
 </p>
 
 <hr>
@@ -46,11 +46,11 @@ $ sh arcon.sh
 
 **4° Passo**:
 Agora que você executou o Arcon, irá aparecer essa interface:
-<img src="./images/interface-arcon.png" alt="Interface inicial do Arcon">
+<img src="https://github.com/teuscode/teuscode/blob/main/imagens/arcon/interface-arcon.png" alt="Interface inicial do Arcon">
 
 **5° Passo**:
 Estando na interface inicial, coloque o domínio ou o IP alvo e pronto:
-<img src="./images/demo-arcon.png" alt="Demonstração de funcionamento do Arcon">
+<img src="https://github.com/teuscode/teuscode/blob/main/imagens/arcon/demo-arcon.png" alt="Demonstração de funcionamento do Arcon">
 
 Após isso, verifique o diretório criado no caminho onde o script foi executado e verifique os arquivos de texto criados, dentro deles possuem o resultado de cada teste feito.
 <hr>
